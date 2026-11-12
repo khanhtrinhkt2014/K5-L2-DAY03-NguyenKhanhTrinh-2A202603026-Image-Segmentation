@@ -19,7 +19,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | hard_panoptic | … | 2 / 2 | 30 |
 | cp1_holes | … | 1 / 1 | 3 |
 | cp2_slice | … | 1 / 1 | 3 |
-| cp5_occlusion | … | … / 1 | 3 |
+| cp5_occlusion | … | 1 / 1 | 3 |
 | cp3_thin | … | 1 / 1 | 3 |
 | cp4_curb | … | 1 / 1 | 3 |
 | cp6_coverage | … | 1 / 1 | 3 |
