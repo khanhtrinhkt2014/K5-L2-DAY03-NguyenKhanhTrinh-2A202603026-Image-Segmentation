@@ -54,6 +54,6 @@ Mỗi ca là một **vùng cụ thể** khiến bạn phải cân nhắc hai cá
 
 | Ảnh/vị trí | Hai cách hiểu có thể | Quy tắc/chứng cứ | Quyết định hoặc câu hỏi cho coach |
 | --- | --- | --- | --- |
-| 1 | … | … | … |
-| 2 | … | … | … |
-| 3 | … | … | … |
+| 1 | Tô người và ván chung vào person, hoặc chỉ tô người. | Tấm ván dưới chân là vật riêng. Giày và quần áo đang mặc thuộc phần người nhìn thấy. | Tôi chọn chỉ tô phần người và giày nhìn thấy, chừa tấm ván khỏi mask person. |
+| 2 | bus hoặc truck. | Chỉ thấy phần nóc và một đoạn thân xe. Mép ảnh cắt mất phần giúp phân biệt cabin và dãy cửa kính. | Tôi đang để bus. Với phần xe nhìn thấy như vậy, có đủ dấu hiệu để giữ nhãn bus không? |
+| 3 | Xe van tự chạy, hoặc rơ-moóc nhà ở. | Vật có cửa sổ kiểu khoang ở và chữ Eriba. Phần nhìn thấy không có cabin lái. | Tôi nghiêng về rơ-moóc nhà ở. Nếu task không có nhãn trailer, em nên để vùng này không gán nhãn hay dùng lớp nào theo quy ước của bài? |
